@@ -38,6 +38,49 @@ Al finalizar la práctica, el estudiante será capaz de:
 | Postorden | Izquierda → Derecha → Raíz |
 | BFS | Nivel por nivel usando cola |
 
+## 📁 Estructura del Proyecto
+
+```
+tarea2.2-repo_recorridos_arboles_uta/
+│
+├── Capturas/
+│   ├── Ejercicio1_C++.png
+│   ├── Ejercicio1_Java.png
+│   ├── Ejercicio2-3-4_C++.png
+│   └── Ejercicio2-3-4_Java.png
+│
+├── docs/
+│   └── guia_practica.md
+│
+├── src/
+│   ├── cpp/
+│   │   └── main.cpp → (integrado 5 nodos nuevos + resolución de los 5 ejercicios)
+│   └── java/
+│       └── Main.java → (integrado 5 nodos nuevos + resolución de los 5 ejercicios)
+│
+├── exercises/
+│   └── ejercicios.md
+│
+├── moodle/
+│   └── preguntas_moodle.md
+│
+└── README.md → (actualizado con la nueva información)
+```
+
+## 📸 Capturas de ejecución
+
+### Ejercicio 1 - Árbol base (C++)
+![Ejercicio1_C++](Capturas/Ejercicio1_C++.png)
+
+### Ejercicio 1 - Árbol base (Java)
+![Ejercicio1_Java](Capturas/Ejercicio1_Java.png)
+
+### Ejercicio 2, 3 y 4 - Árbol ampliado (C++)
+![Ejercicio2-3-4_C++](Capturas/Ejercicio2-3-4_C++.png)
+
+### Ejercicio 2, 3 y 4 - Árbol ampliado (Java)
+![Ejercicio2-3-4_Java](Capturas/Ejercicio2-3-4_Java.png)
+
 ## Ejecución en C++
 
 ```bash
@@ -54,7 +97,7 @@ javac Main.java
 java Main
 ```
 
-## Actividad  sugerida:
+## Actividad sugerida:
 
 1. Clonar el repositorio.
 2. Ejecutar el código base.
@@ -81,3 +124,6 @@ java Main
 | Aplicación al proyecto final | 2 |
 | Uso de GitHub e IA documentada | 1.5 |
 
+## 🔗 Repositorio GitHub
+
+[https://github.com/kmoyolema3929/tarea2.2-repo_recorridos_arboles_uta.git](https://github.com/kmoyolema3929/tarea2.2-repo_recorridos_arboles_uta.git)
